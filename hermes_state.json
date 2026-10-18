@@ -75,6 +75,11 @@
    "price": "AU$6,080",
    "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CKS3/"
   },
+  "H082141CKAC": {
+   "name": "24/24 - 21 bag, Black",
+   "price": "AU$17,020",
+   "url": "https://www.hermes.com/au/en/product/2424-21-bag-H082141CKAC/"
+  },
   "H056277CC10": {
    "name": "Evelyne III 29 bag, White",
    "price": "AU$6,745",
@@ -154,6 +159,11 @@
    "name": "Neo Garden Voyage 41 bag, Beige/Natural",
    "price": "AU$8,010",
    "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
+  },
+  "H086430CCAA": {
+   "name": "Herbag Zip 20 bag, Black",
+   "price": "AU$4,885",
+   "url": "https://www.hermes.com/au/en/product/herbag-zip-20-bag-H086430CCAA/"
   }
  },
  "blocked": false
