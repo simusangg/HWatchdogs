@@ -10,6 +10,21 @@
    "price": "AU$14,920",
    "url": "https://www.hermes.com/au/en/product/sanglons-clutch-H086955CK89/"
   },
+  "H087953CKAB": {
+   "name": "Double Longe bag, Black",
+   "price": "AU$10,830",
+   "url": "https://www.hermes.com/au/en/product/double-longe-bag-H087953CKAB/"
+  },
+  "H056277CK89": {
+   "name": "Evelyne III 29 bag, Black",
+   "price": "AU$6,745",
+   "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CK89/"
+  },
+  "H078971CCCZ": {
+   "name": "Herbag Zip 31 bag, Blue",
+   "price": "AU$5,395",
+   "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H078971CCCZ/"
+  },
   "H086918CCAA": {
    "name": "HermÃ¨s Geta slim bag, Beige/Natural",
    "price": "AU$11,715",
@@ -29,11 +44,6 @@
    "name": "P'tit Arcon Toile & Cuir bag, Beige/Natural",
    "price": "AU$8,510",
    "url": "https://www.hermes.com/au/en/product/p-tit-arcon-toile-and-cuir-bag-H086394CKAA/"
-  },
-  "H088004CK3Q": {
-   "name": "Jypsiere mini bag, Pink",
-   "price": "AU$15,140",
-   "url": "https://www.hermes.com/au/en/product/jypsiere-mini-bag-H088004CK3Q/"
   },
   "H085055CKAF": {
    "name": "Medor bag, Beige/Natural",
@@ -60,30 +70,15 @@
    "price": "AU$18,565",
    "url": "https://www.hermes.com/au/en/product/2424-29-bag-H075240CCAE/"
   },
-  "H087953CKAB": {
-   "name": "Double Longe bag, Black",
-   "price": "AU$10,830",
-   "url": "https://www.hermes.com/au/en/product/double-longe-bag-H087953CKAB/"
-  },
-  "H056277CK89": {
-   "name": "Evelyne III 29 bag, Black",
-   "price": "AU$6,745",
-   "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CK89/"
+  "H088004CK3Q": {
+   "name": "Jypsiere mini bag, Pink",
+   "price": "AU$15,140",
+   "url": "https://www.hermes.com/au/en/product/jypsiere-mini-bag-H088004CK3Q/"
   },
   "H056289CKS3": {
    "name": "Picotin Lock 18 bag, Red",
    "price": "AU$6,080",
    "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CKS3/"
-  },
-  "H082141CKAC": {
-   "name": "24/24 - 21 bag, Black",
-   "price": "AU$17,020",
-   "url": "https://www.hermes.com/au/en/product/2424-21-bag-H082141CKAC/"
-  },
-  "H056277CC10": {
-   "name": "Evelyne III 29 bag, White",
-   "price": "AU$6,745",
-   "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CC10/"
   },
   "H056277CK18": {
    "name": "Evelyne III 29 bag, Beige/Natural",
@@ -110,20 +105,20 @@
    "price": "AU$8,400",
    "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H084274CKAS/"
   },
-  "H087076CKAB": {
-   "name": "Lassoie HermÃ¨s bag, Blue",
-   "price": "AU$7,185",
-   "url": "https://www.hermes.com/au/en/product/lassoie-hermes-bag-H087076CKAB/"
+  "H085003CKI2": {
+   "name": "Mini Medor bag, White",
+   "price": "AU$10,280",
+   "url": "https://www.hermes.com/au/en/product/mini-medor-bag-H085003CKI2/"
   },
   "H048490CA10": {
    "name": "Jige Elan 29 clutch, White",
    "price": "AU$8,070",
    "url": "https://www.hermes.com/au/en/product/jige-elan-29-clutch-H048490CA10/"
   },
-  "H078971CCCZ": {
-   "name": "Herbag Zip 31 bag, Blue",
-   "price": "AU$5,395",
-   "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H078971CCCZ/"
+  "H056277CC10": {
+   "name": "Evelyne III 29 bag, White",
+   "price": "AU$6,745",
+   "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CC10/"
   },
   "H087987CK18": {
    "name": "HermÃ¨s Videpoches bag, Beige/Natural",
@@ -140,15 +135,15 @@
    "price": "AU$5,940",
    "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H084283CK1C/"
   },
+  "H087076CKAB": {
+   "name": "Lassoie HermÃ¨s bag, Blue",
+   "price": "AU$7,185",
+   "url": "https://www.hermes.com/au/en/product/lassoie-hermes-bag-H087076CKAB/"
+  },
   "H087934CKAB": {
    "name": "Neo Garden Voyage 41 bredies bag, Brown",
    "price": "AU$14,590",
    "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAB/"
-  },
-  "H085003CKI2": {
-   "name": "Mini Medor bag, White",
-   "price": "AU$10,280",
-   "url": "https://www.hermes.com/au/en/product/mini-medor-bag-H085003CKI2/"
   },
   "H085760CKAE": {
    "name": "HermÃ¨s Videpoches bag, Beige/Natural",
@@ -159,11 +154,6 @@
    "name": "Neo Garden Voyage 41 bag, Beige/Natural",
    "price": "AU$8,010",
    "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
-  },
-  "H086430CCAA": {
-   "name": "Herbag Zip 20 bag, Black",
-   "price": "AU$4,885",
-   "url": "https://www.hermes.com/au/en/product/herbag-zip-20-bag-H086430CCAA/"
   }
  },
  "blocked": false
