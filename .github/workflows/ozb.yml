@@ -1,8 +1,8 @@
 name: OzBargain to Discord
 
 on:
-  schedule:
-    - cron: "*/5 * * * *"   # every 5 minutes (GitHub may run it later than this)
+ # schedule: - No longer needed because running it from cron-job
+ #   - cron: "*/5 * * * *"   # every 5 minutes (GitHub may run it later than this)
   workflow_dispatch:         # lets you run it manually from the Actions tab
 
 permissions:
