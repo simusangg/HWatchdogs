@@ -1,8 +1,8 @@
 name: Hermès to Discord
 
 on:
-  schedule:
-    - cron: "*/10 * * * *"   # every 10 minutes
+#  schedule: - No longer needed because running it from cron-job
+#    - cron: "*/10 * * * *"   # every 10 minutes
   workflow_dispatch:
 
 permissions:
