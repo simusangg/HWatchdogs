@@ -90,11 +90,6 @@
    "price": "AU$6,745",
    "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CK18/"
   },
-  "H048263CK18": {
-   "name": "Plume mini bag, Beige/Natural",
-   "price": "AU$12,270",
-   "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H048263CK18/"
-  },
   "H082153CCBH": {
    "name": "24/24 - 21 bag, Beige/Natural",
    "price": "AU$17,020",
@@ -109,6 +104,11 @@
    "name": "HermÃ¨s In-the-Loop 18 bag, Blue",
    "price": "AU$8,400",
    "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H084274CKAS/"
+  },
+  "H086559CC89": {
+   "name": "Plume mini bag, Black",
+   "price": "AU$12,490",
+   "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H086559CC89/"
   },
   "H085003CKI2": {
    "name": "Mini Medor bag, White",
@@ -164,6 +164,11 @@
    "name": "Neo Garden Voyage 41 bag, Beige/Natural",
    "price": "AU$8,010",
    "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
+  },
+  "H088004CC55": {
+   "name": "Jypsiere mini bag, Red",
+   "price": "AU$15,140",
+   "url": "https://www.hermes.com/au/en/product/jypsiere-mini-bag-H088004CC55/"
   },
   "H086410CC55": {
    "name": "Faubourg Express bag, Red",
