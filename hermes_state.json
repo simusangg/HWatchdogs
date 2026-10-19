@@ -70,6 +70,16 @@
    "price": "AU$18,565",
    "url": "https://www.hermes.com/au/en/product/2424-29-bag-H075240CCAE/"
   },
+  "H056289CC10": {
+   "name": "Picotin Lock 18 bag, White",
+   "price": "AU$6,080",
+   "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CC10/"
+  },
+  "H056289CK5K": {
+   "name": "Picotin Lock 18 bag, Orange",
+   "price": "AU$6,080",
+   "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CK5K/"
+  },
   "H088004CK3Q": {
    "name": "Jypsiere mini bag, Pink",
    "price": "AU$15,140",
@@ -90,15 +100,15 @@
    "price": "AU$12,270",
    "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H048263CK18/"
   },
+  "H082153CCBH": {
+   "name": "24/24 - 21 bag, Beige/Natural",
+   "price": "AU$17,020",
+   "url": "https://www.hermes.com/au/en/product/2424-21-bag-H082153CCBH/"
+  },
   "H087970CT37": {
    "name": "Mallette bag, Beige/Natural",
    "price": "AU$15,695",
    "url": "https://www.hermes.com/au/en/product/mallette-bag-H087970CT37/"
-  },
-  "H079091CKBI": {
-   "name": "Herbag Zip 31 bag, Grey",
-   "price": "AU$5,395",
-   "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079091CKBI/"
   },
   "H084274CKAS": {
    "name": "HermÃ¨s In-the-Loop 18 bag, Blue",
@@ -160,10 +170,25 @@
    "price": "AU$8,010",
    "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
   },
+  "H056289CC18": {
+   "name": "Picotin Lock 18 bag, Beige/Natural",
+   "price": "AU$6,080",
+   "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CC18/"
+  },
+  "H086430CCAB": {
+   "name": "Herbag Zip 20 bag, Grey",
+   "price": "AU$4,885",
+   "url": "https://www.hermes.com/au/en/product/herbag-zip-20-bag-H086430CCAB/"
+  },
   "H086410CC55": {
    "name": "Faubourg Express bag, Red",
    "price": "AU$17,020",
    "url": "https://www.hermes.com/au/en/product/faubourg-express-bag-H086410CC55/"
+  },
+  "H085945CKCH": {
+   "name": "Evelyne 16 Amazone bag, Green",
+   "price": "AU$3,870",
+   "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H085945CKCH/"
   }
  },
  "blocked": false
