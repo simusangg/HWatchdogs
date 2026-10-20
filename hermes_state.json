@@ -1,5 +1,10 @@
 {
  "products": {
+  "H086559CC55": {
+   "name": "Plume mini bag, Red",
+   "price": "AU$12,490",
+   "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H086559CC55/"
+  },
   "H086527CK89": {
    "name": "24/24 - 21 bag, Black",
    "price": "AU$21,770",
@@ -9,11 +14,6 @@
    "name": "Neo Medor clutch, Beige/Natural",
    "price": "AU$20,115",
    "url": "https://www.hermes.com/au/en/product/neo-medor-clutch-H085741CK89/"
-  },
-  "H086955CK89": {
-   "name": "Sanglons clutch, Black",
-   "price": "AU$14,920",
-   "url": "https://www.hermes.com/au/en/product/sanglons-clutch-H086955CK89/"
   },
   "H087953CKAB": {
    "name": "Double Longe bag, Black",
@@ -70,6 +70,11 @@
    "price": "AU$15,140",
    "url": "https://www.hermes.com/au/en/product/jypsiere-mini-bag-H088004CK3Q/"
   },
+  "H078971CCAA": {
+   "name": "Herbag Zip 31 bag, Black",
+   "price": "AU$5,395",
+   "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H078971CCAA/"
+  },
   "H079092CKAI": {
    "name": "Herbag Zip 31 bag, Black",
    "price": "AU$5,395",
@@ -84,11 +89,6 @@
    "name": "HermÃ¨s In-the-Loop 18 bag, Blue",
    "price": "AU$8,400",
    "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H084274CKAS/"
-  },
-  "H086559CC89": {
-   "name": "Plume mini bag, Black",
-   "price": "AU$12,490",
-   "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H086559CC89/"
   },
   "H085003CKI2": {
    "name": "Mini Medor bag, White",
@@ -119,6 +119,11 @@
    "name": "Neo Garden Voyage 41 bredies bag, Black",
    "price": "AU$14,590",
    "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAA/"
+  },
+  "H085945CKBX": {
+   "name": "Evelyne 16 Amazone bag, Beige/Natural",
+   "price": "AU$3,870",
+   "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H085945CKBX/"
   },
   "H084283CK1C": {
    "name": "HermÃ¨s Videpoches bag, Beige/Natural",
@@ -154,6 +159,16 @@
    "name": "Evelyne III 29 bag, Grey",
    "price": "AU$6,745",
    "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CKP0/"
+  },
+  "H056289CK0G": {
+   "name": "Picotin Lock 18 bag, Red",
+   "price": "AU$6,080",
+   "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CK0G/"
+  },
+  "H060991CKS3": {
+   "name": "Picotin Lock 22 bag, Red",
+   "price": "AU$6,520",
+   "url": "https://www.hermes.com/au/en/product/picotin-lock-22-bag-H060991CKS3/"
   },
   "H088004CC55": {
    "name": "Jypsiere mini bag, Red",
