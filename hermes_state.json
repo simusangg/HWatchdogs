@@ -50,6 +50,11 @@
    "price": "AU$21,770",
    "url": "https://www.hermes.com/au/en/product/2424-21-bag-H086527CK89/"
   },
+  "H071205CK89": {
+   "name": "Roulis Mini Bag",
+   "price": "AU$15,805",
+   "url": "https://www.hermes.com/au/en/product/roulis-mini-bag-H071205CK89/"
+  },
   "H087953CKAB": {
    "name": "Double Longe Bag",
    "price": "AU$10,830",
@@ -110,6 +115,16 @@
    "price": "AU$5,395",
    "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H078971CKAA/"
   },
+  "H087941CC89": {
+   "name": "Evelyne 23 Poche Iii Bag",
+   "price": "AU$6,520",
+   "url": "https://www.hermes.com/au/en/product/evelyne-23-poche-iii-bag-H087941CC89/"
+  },
+  "H069523CKCE": {
+   "name": "Halzan Mini Bag",
+   "price": "AU$9,945",
+   "url": "https://www.hermes.com/au/en/product/halzan-mini-bag-H069523CKCE/"
+  },
   "H056277CKH0": {
    "name": "Evelyne Iii 29 Bag",
    "price": "AU$6,745",
@@ -124,6 +139,11 @@
    "name": "Etriviere Shopping Voyage Bag",
    "price": "AU$6,365",
    "url": "https://www.hermes.com/au/en/product/etriviere-shopping-voyage-bag-H088128CKAB/"
+  },
+  "H056289CCV8": {
+   "name": "Picotin Lock 18 Bag",
+   "price": "AU$6,080",
+   "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CCV8/"
   },
   "H087934CKAA": {
    "name": "Neo Garden Voyage 41 Bredies Bag",
@@ -159,6 +179,16 @@
    "name": "Evelyne Iii 29 Bag",
    "price": "AU$6,745",
    "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CKP0/"
+  },
+  "H073430CC8L": {
+   "name": "Lindy 26 Bag",
+   "price": "AU$16,910",
+   "url": "https://www.hermes.com/au/en/product/lindy-26-bag-H073430CC8L/"
+  },
+  "H056289CC0G": {
+   "name": "Picotin Lock 18 Bag",
+   "price": "AU$6,080",
+   "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CC0G/"
   }
  },
  "blocked": false
