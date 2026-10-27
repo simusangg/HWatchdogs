@@ -70,16 +70,6 @@
    "price": "AU$8,070",
    "url": "https://www.hermes.com/au/en/product/jige-elan-29-clutch-H048490CA10/"
   },
-  "H088004CK3Q": {
-   "name": "Jypsiere Mini Bag",
-   "price": "AU$15,140",
-   "url": "https://www.hermes.com/au/en/product/jypsiere-mini-bag-H088004CK3Q/"
-  },
-  "H086410CC55": {
-   "name": "Faubourg Express Bag",
-   "price": "AU$17,020",
-   "url": "https://www.hermes.com/au/en/product/faubourg-express-bag-H086410CC55/"
-  },
   "H085003CKI2": {
    "name": "Mini Medor Bag",
    "price": "AU$10,280",
@@ -90,15 +80,20 @@
    "price": "AU$5,505",
    "url": "https://www.hermes.com/au/en/product/garden-party-36-bag-H038587CKDT/"
   },
+  "H079092CCAI": {
+   "name": "Herbag Zip 31 Bag",
+   "price": "AU$5,395",
+   "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079092CCAI/"
+  },
   "H056277CK18": {
    "name": "Evelyne Iii 29 Bag",
    "price": "AU$6,745",
    "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CK18/"
   },
-  "H078971CKAA": {
-   "name": "Herbag Zip 31 Bag",
-   "price": "AU$5,395",
-   "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H078971CKAA/"
+  "H088004CC4B": {
+   "name": "Jypsiere Mini Bag",
+   "price": "AU$15,140",
+   "url": "https://www.hermes.com/au/en/product/jypsiere-mini-bag-H088004CC4B/"
   },
   "H086559CK80": {
    "name": "Plume Mini Bag",
@@ -144,6 +139,16 @@
    "name": "Hermes Videpoches Bag",
    "price": "AU$6,845",
    "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H085760CKAE/"
+  },
+  "H085690CCAS": {
+   "name": "Hermes In The Loop 18 Bag",
+   "price": "AU$8,180",
+   "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H085690CCAS/"
+  },
+  "H079091CKAR": {
+   "name": "Herbag Zip 31 Bag",
+   "price": "AU$5,395",
+   "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079091CKAR/"
   },
   "H086934CKAA": {
    "name": "Neo Garden Voyage 41 Bag",
