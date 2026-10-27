@@ -20,6 +20,26 @@
    "price": "AU$18,015",
    "url": "https://www.hermes.com/au/en/product/medor-bag-H085055CKAF/"
   },
+  "H048490CA10": {
+   "name": "Jige Elan 29 Clutch",
+   "price": "AU$8,070",
+   "url": "https://www.hermes.com/au/en/product/jige-elan-29-clutch-H048490CA10/"
+  },
+  "H086559CK80": {
+   "name": "Plume Mini Bag",
+   "price": "AU$12,490",
+   "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H086559CK80/"
+  },
+  "H079092CCAI": {
+   "name": "Herbag Zip 31 Bag",
+   "price": "AU$5,395",
+   "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079092CCAI/"
+  },
+  "H085690CCAS": {
+   "name": "Hermes In The Loop 18 Bag",
+   "price": "AU$8,180",
+   "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H085690CCAS/"
+  },
   "H086918CCAA": {
    "name": "Hermes Geta Slim Bag",
    "price": "AU$11,715",
@@ -60,31 +80,6 @@
    "price": "AU$10,830",
    "url": "https://www.hermes.com/au/en/product/double-longe-bag-H087953CKAB/"
   },
-  "H085751CKAA": {
-   "name": "Seau Mousqueton Bag",
-   "price": "AU$15,495",
-   "url": "https://www.hermes.com/au/en/product/seau-mousqueton-bag-H085751CKAA/"
-  },
-  "H048490CA10": {
-   "name": "Jige Elan 29 Clutch",
-   "price": "AU$8,070",
-   "url": "https://www.hermes.com/au/en/product/jige-elan-29-clutch-H048490CA10/"
-  },
-  "H085003CKI2": {
-   "name": "Mini Medor Bag",
-   "price": "AU$10,280",
-   "url": "https://www.hermes.com/au/en/product/mini-medor-bag-H085003CKI2/"
-  },
-  "H038587CKDT": {
-   "name": "Garden Party 36 Bag",
-   "price": "AU$5,505",
-   "url": "https://www.hermes.com/au/en/product/garden-party-36-bag-H038587CKDT/"
-  },
-  "H079092CCAI": {
-   "name": "Herbag Zip 31 Bag",
-   "price": "AU$5,395",
-   "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079092CCAI/"
-  },
   "H056277CK18": {
    "name": "Evelyne Iii 29 Bag",
    "price": "AU$6,745",
@@ -95,15 +90,35 @@
    "price": "AU$15,140",
    "url": "https://www.hermes.com/au/en/product/jypsiere-mini-bag-H088004CC4B/"
   },
-  "H086559CK80": {
-   "name": "Plume Mini Bag",
-   "price": "AU$12,490",
-   "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H086559CK80/"
+  "H079091CKAR": {
+   "name": "Herbag Zip 31 Bag",
+   "price": "AU$5,395",
+   "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079091CKAR/"
+  },
+  "H038587CKDT": {
+   "name": "Garden Party 36 Bag",
+   "price": "AU$5,505",
+   "url": "https://www.hermes.com/au/en/product/garden-party-36-bag-H038587CKDT/"
+  },
+  "H085751CKAA": {
+   "name": "Seau Mousqueton Bag",
+   "price": "AU$15,495",
+   "url": "https://www.hermes.com/au/en/product/seau-mousqueton-bag-H085751CKAA/"
   },
   "H056277CKH0": {
    "name": "Evelyne Iii 29 Bag",
    "price": "AU$6,745",
    "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CKH0/"
+  },
+  "H087076CKAB": {
+   "name": "Lassoie Hermes Bag",
+   "price": "AU$7,185",
+   "url": "https://www.hermes.com/au/en/product/lassoie-hermes-bag-H087076CKAB/"
+  },
+  "H085003CKI2": {
+   "name": "Mini Medor Bag",
+   "price": "AU$10,280",
+   "url": "https://www.hermes.com/au/en/product/mini-medor-bag-H085003CKI2/"
   },
   "H087987CK18": {
    "name": "Hermes Videpoches Bag",
@@ -125,11 +140,6 @@
    "price": "AU$5,940",
    "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H084283CK1C/"
   },
-  "H087076CKAB": {
-   "name": "Lassoie Hermes Bag",
-   "price": "AU$7,185",
-   "url": "https://www.hermes.com/au/en/product/lassoie-hermes-bag-H087076CKAB/"
-  },
   "H087934CKAB": {
    "name": "Neo Garden Voyage 41 Bredies Bag",
    "price": "AU$14,590",
@@ -139,16 +149,6 @@
    "name": "Hermes Videpoches Bag",
    "price": "AU$6,845",
    "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H085760CKAE/"
-  },
-  "H085690CCAS": {
-   "name": "Hermes In The Loop 18 Bag",
-   "price": "AU$8,180",
-   "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H085690CCAS/"
-  },
-  "H079091CKAR": {
-   "name": "Herbag Zip 31 Bag",
-   "price": "AU$5,395",
-   "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079091CKAR/"
   },
   "H086934CKAA": {
    "name": "Neo Garden Voyage 41 Bag",
