@@ -110,6 +110,11 @@
    "price": "AU$12,270",
    "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H048263CKT3/"
   },
+  "H056289CKS3": {
+   "name": "Picotin Lock 18 Bag",
+   "price": "AU$6,080",
+   "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CKS3/"
+  },
   "H085751CKAA": {
    "name": "Seau Mousqueton Bag",
    "price": "AU$15,495",
@@ -174,11 +179,6 @@
    "name": "Neo Garden Voyage 41 Bag",
    "price": "AU$8,010",
    "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
-  },
-  "H077914CC34": {
-   "name": "Picotin Lock 22 Bag",
-   "price": "AU$7,295",
-   "url": "https://www.hermes.com/au/en/product/picotin-lock-22-bag-H077914CC34/"
   }
  },
  "blocked": false
