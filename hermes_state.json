@@ -165,6 +165,11 @@
    "price": "AU$14,590",
    "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAB/"
   },
+  "H060991CK2D": {
+   "name": "Picotin Lock 22 Bag",
+   "price": "AU$6,520",
+   "url": "https://www.hermes.com/au/en/product/picotin-lock-22-bag-H060991CK2D/"
+  },
   "H085760CKAE": {
    "name": "Hermes Videpoches Bag",
    "price": "AU$6,845",
@@ -174,11 +179,6 @@
    "name": "Neo Garden Voyage 41 Bag",
    "price": "AU$8,010",
    "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
-  },
-  "H077914CC34": {
-   "name": "Picotin Lock 22 Bag",
-   "price": "AU$7,295",
-   "url": "https://www.hermes.com/au/en/product/picotin-lock-22-bag-H077914CC34/"
   }
  },
  "blocked": false
