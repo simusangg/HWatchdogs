@@ -80,11 +80,6 @@
    "price": "AU$5,040",
    "url": "https://www.hermes.com/au/en/product/garden-party-30-bag-H069573CKDO/"
   },
-  "H056289CKS3": {
-   "name": "Picotin Lock 18 Bag",
-   "price": "AU$6,080",
-   "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CKS3/"
-  },
   "H085751CKAA": {
    "name": "Seau Mousqueton Bag",
    "price": "AU$15,495",
@@ -99,6 +94,11 @@
    "name": "Lassoie Hermes Bag",
    "price": "AU$7,185",
    "url": "https://www.hermes.com/au/en/product/lassoie-hermes-bag-H087076CKAB/"
+  },
+  "H060991CC89": {
+   "name": "Picotin Lock 22 Bag",
+   "price": "AU$6,520",
+   "url": "https://www.hermes.com/au/en/product/picotin-lock-22-bag-H060991CC89/"
   },
   "H078971CKAA": {
    "name": "Herbag Zip 31 Bag",
@@ -150,15 +150,10 @@
    "price": "AU$8,010",
    "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
   },
-  "H069426CCCI": {
-   "name": "Evelyne 16 Amazone Bag",
-   "price": "AU$3,870",
-   "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H069426CCCI/"
-  },
-  "H085957CK89": {
-   "name": "Lindy Ii Mini Bag",
-   "price": "AU$14,590",
-   "url": "https://www.hermes.com/au/en/product/lindy-ii-mini-bag-H085957CK89/"
+  "H075180CC0G": {
+   "name": "Bolide 1923 Mini Bag",
+   "price": "AU$11,165",
+   "url": "https://www.hermes.com/au/en/product/bolide-1923-mini-bag-H075180CC0G/"
   }
  },
  "blocked": false
