@@ -110,11 +110,6 @@
    "price": "AU$10,280",
    "url": "https://www.hermes.com/au/en/product/mini-medor-bag-H085003CKI2/"
   },
-  "H087941CC0G": {
-   "name": "Evelyne 23 Poche Iii Bag",
-   "price": "AU$6,520",
-   "url": "https://www.hermes.com/au/en/product/evelyne-23-poche-iii-bag-H087941CC0G/"
-  },
   "H086430CCAB": {
    "name": "Herbag Zip 20 Bag",
    "price": "AU$4,885",
@@ -134,11 +129,6 @@
    "name": "Etriviere Shopping Voyage Bag",
    "price": "AU$6,365",
    "url": "https://www.hermes.com/au/en/product/etriviere-shopping-voyage-bag-H088128CKAB/"
-  },
-  "H056289CK2D": {
-   "name": "Picotin Lock 18 Bag",
-   "price": "AU$6,080",
-   "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CK2D/"
   },
   "H087934CKAA": {
    "name": "Neo Garden Voyage 41 Bredies Bag",
@@ -165,11 +155,6 @@
    "price": "AU$5,395",
    "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079092CCAF/"
   },
-  "H085414CKAH": {
-   "name": "Herbag Zip 20 Bag",
-   "price": "AU$4,885",
-   "url": "https://www.hermes.com/au/en/product/herbag-zip-20-bag-H085414CKAH/"
-  },
   "H085945CCAD": {
    "name": "Evelyne 16 Amazone Bag",
    "price": "AU$3,870",
@@ -179,26 +164,6 @@
    "name": "Neo Garden Voyage 41 Bag",
    "price": "AU$8,010",
    "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
-  },
-  "H085414CCAF": {
-   "name": "Herbag Zip 20 Bag",
-   "price": "AU$4,885",
-   "url": "https://www.hermes.com/au/en/product/herbag-zip-20-bag-H085414CCAF/"
-  },
-  "H069426CCCR": {
-   "name": "Evelyne 16 Amazone Bag",
-   "price": "AU$3,870",
-   "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H069426CCCR/"
-  },
-  "H069426CCCI": {
-   "name": "Evelyne 16 Amazone Bag",
-   "price": "AU$3,870",
-   "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H069426CCCI/"
-  },
-  "H056289CK18": {
-   "name": "Picotin Lock 18 Bag",
-   "price": "AU$6,080",
-   "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CK18/"
   }
  },
  "blocked": false
