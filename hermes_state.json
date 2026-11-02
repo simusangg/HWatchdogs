@@ -110,16 +110,6 @@
    "price": "AU$10,280",
    "url": "https://www.hermes.com/au/en/product/mini-medor-bag-H085003CKI2/"
   },
-  "H086430CCAB": {
-   "name": "Herbag Zip 20 Bag",
-   "price": "AU$4,885",
-   "url": "https://www.hermes.com/au/en/product/herbag-zip-20-bag-H086430CCAB/"
-  },
-  "H078999CKAD": {
-   "name": "Evelyne 16 Amazone Bag",
-   "price": "AU$4,335",
-   "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H078999CKAD/"
-  },
   "H087987CK18": {
    "name": "Hermes Videpoches Bag",
    "price": "AU$5,535",
@@ -155,15 +145,20 @@
    "price": "AU$5,395",
    "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079092CCAF/"
   },
-  "H085945CCAD": {
-   "name": "Evelyne 16 Amazone Bag",
-   "price": "AU$3,870",
-   "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H085945CCAD/"
-  },
   "H086934CKAA": {
    "name": "Neo Garden Voyage 41 Bag",
    "price": "AU$8,010",
    "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
+  },
+  "H069426CCCI": {
+   "name": "Evelyne 16 Amazone Bag",
+   "price": "AU$3,870",
+   "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H069426CCCI/"
+  },
+  "H085957CK89": {
+   "name": "Lindy Ii Mini Bag",
+   "price": "AU$14,590",
+   "url": "https://www.hermes.com/au/en/product/lindy-ii-mini-bag-H085957CK89/"
   }
  },
  "blocked": false
