@@ -1,10 +1,5 @@
 {
  "products": {
-  "H085956CKX3": {
-   "name": "Lindy Ii Mini Bag",
-   "price": "AU$13,815",
-   "url": "https://www.hermes.com/au/en/product/lindy-ii-mini-bag-H085956CKX3/"
-  },
   "H085741CK89": {
    "name": "Neo Medor Clutch",
    "price": "AU$20,115",
@@ -19,11 +14,6 @@
    "name": "Medor Bag",
    "price": "AU$18,015",
    "url": "https://www.hermes.com/au/en/product/medor-bag-H085055CKAA/"
-  },
-  "H086430CKAA": {
-   "name": "Herbag Zip 20 Bag",
-   "price": "AU$4,885",
-   "url": "https://www.hermes.com/au/en/product/herbag-zip-20-bag-H086430CKAA/"
   },
   "H048263CKT3": {
    "name": "Plume Mini Bag",
@@ -150,6 +140,11 @@
    "price": "AU$6,845",
    "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H085760CKAE/"
   },
+  "H079195CKP0": {
+   "name": "Roulis Mini Bag",
+   "price": "AU$15,470",
+   "url": "https://www.hermes.com/au/en/product/roulis-mini-bag-H079195CKP0/"
+  },
   "H087080CK18": {
    "name": "Evelyne 16 Sellier Bag",
    "price": "AU$6,080",
@@ -169,6 +164,21 @@
    "name": "Halzan Mini Bag",
    "price": "AU$9,945",
    "url": "https://www.hermes.com/au/en/product/halzan-mini-bag-H069523CKAI/"
+  },
+  "H084235CCH0": {
+   "name": "Picotin Lock Micro Bag",
+   "price": "AU$16,910",
+   "url": "https://www.hermes.com/au/en/product/picotin-lock-micro-bag-H084235CCH0/"
+  },
+  "H084274CKY1": {
+   "name": "Hermes In The Loop 18 Bag",
+   "price": "AU$8,400",
+   "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H084274CKY1/"
+  },
+  "H084274CKAX": {
+   "name": "Hermes In The Loop 18 Bag",
+   "price": "AU$8,400",
+   "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H084274CKAX/"
   }
  },
  "blocked": false
