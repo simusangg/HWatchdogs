@@ -130,10 +130,20 @@
    "price": "AU$18,565",
    "url": "https://www.hermes.com/au/en/product/2424-29-bag-H075240CCAE/"
   },
+  "H056289CKS3": {
+   "name": "Picotin Lock 18 Bag",
+   "price": "AU$6,080",
+   "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CKS3/"
+  },
   "H079092CKAI": {
    "name": "Herbag Zip 31 Bag",
    "price": "AU$5,395",
    "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079092CKAI/"
+  },
+  "H087941CC89": {
+   "name": "Evelyne 23 Poche Iii Bag",
+   "price": "AU$6,520",
+   "url": "https://www.hermes.com/au/en/product/evelyne-23-poche-iii-bag-H087941CC89/"
   },
   "H084274CKAX": {
    "name": "Hermes In The Loop 18 Bag",
@@ -175,10 +185,15 @@
    "price": "AU$8,010",
    "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
   },
-  "H056277CC89": {
-   "name": "Evelyne Iii 29 Bag",
-   "price": "AU$6,745",
-   "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CC89/"
+  "H085945CKAC": {
+   "name": "Evelyne 16 Amazone Bag",
+   "price": "AU$3,870",
+   "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H085945CKAC/"
+  },
+  "H060991CC0G": {
+   "name": "Picotin Lock 22 Bag",
+   "price": "AU$6,520",
+   "url": "https://www.hermes.com/au/en/product/picotin-lock-22-bag-H060991CC0G/"
   }
  },
  "blocked": false
