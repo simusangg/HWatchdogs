@@ -130,6 +130,11 @@
    "price": "AU$18,565",
    "url": "https://www.hermes.com/au/en/product/2424-29-bag-H075240CCAE/"
   },
+  "H084274CKAX": {
+   "name": "Hermes In The Loop 18 Bag",
+   "price": "AU$8,400",
+   "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H084274CKAX/"
+  },
   "H088128CKAB": {
    "name": "Etriviere Shopping Voyage Bag",
    "price": "AU$6,365",
@@ -169,11 +174,6 @@
    "name": "Evelyne Iii 29 Bag",
    "price": "AU$6,745",
    "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CC89/"
-  },
-  "H084274CKAX": {
-   "name": "Hermes In The Loop 18 Bag",
-   "price": "AU$8,400",
-   "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H084274CKAX/"
   }
  },
  "blocked": false
