@@ -180,15 +180,20 @@
    "price": "AU$9,615",
    "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H073582CCAM/"
   },
+  "H060991CC0G": {
+   "name": "Picotin Lock 22 Bag",
+   "price": "AU$6,520",
+   "url": "https://www.hermes.com/au/en/product/picotin-lock-22-bag-H060991CC0G/"
+  },
   "H056277CC89": {
    "name": "Evelyne Iii 29 Bag",
    "price": "AU$6,745",
    "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CC89/"
   },
-  "H060991CP2D": {
-   "name": "Picotin Lock 22 Bag",
-   "price": "AU$6,520",
-   "url": "https://www.hermes.com/au/en/product/picotin-lock-22-bag-H060991CP2D/"
+  "H069426CKEW": {
+   "name": "Evelyne 16 Amazone Bag",
+   "price": "AU$3,870",
+   "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H069426CKEW/"
   }
  },
  "blocked": false
