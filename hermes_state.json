@@ -170,16 +170,6 @@
    "price": "AU$8,010",
    "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
   },
-  "H069426CCDS": {
-   "name": "Evelyne 16 Amazone Bag",
-   "price": "AU$3,870",
-   "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H069426CCDS/"
-  },
-  "H069426CKDS": {
-   "name": "Evelyne 16 Amazone Bag",
-   "price": "AU$3,870",
-   "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H069426CKDS/"
-  },
   "H073582CCAM": {
    "name": "Picotin Lock 18 Bag",
    "price": "AU$9,615",
@@ -199,6 +189,11 @@
    "name": "Evelyne 16 Amazone Bag",
    "price": "AU$3,870",
    "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H085945CKCG/"
+  },
+  "H079091CKBZ": {
+   "name": "Herbag Zip 31 Bag",
+   "price": "AU$5,395",
+   "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079091CKBZ/"
   }
  },
  "blocked": false
