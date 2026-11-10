@@ -105,11 +105,6 @@
    "price": "AU$18,015",
    "url": "https://www.hermes.com/au/en/product/medor-bag-H085055CKAA/"
   },
-  "H086430CCAA": {
-   "name": "Herbag Zip 20 Bag",
-   "price": "AU$4,885",
-   "url": "https://www.hermes.com/au/en/product/herbag-zip-20-bag-H086430CCAA/"
-  },
   "H085741CK89": {
    "name": "Neo Medor Clutch",
    "price": "AU$20,115",
@@ -190,15 +185,10 @@
    "price": "AU$8,010",
    "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
   },
-  "H060991CK10": {
-   "name": "Picotin Lock 22 Bag",
-   "price": "AU$6,520",
-   "url": "https://www.hermes.com/au/en/product/picotin-lock-22-bag-H060991CK10/"
-  },
-  "H051568CK85": {
-   "name": "Garden Party 30 Bag",
-   "price": "AU$7,295",
-   "url": "https://www.hermes.com/au/en/product/garden-party-30-bag-H051568CK85/"
+  "H085751CKAA": {
+   "name": "Seau Mousqueton Bag",
+   "price": "AU$15,495",
+   "url": "https://www.hermes.com/au/en/product/seau-mousqueton-bag-H085751CKAA/"
   }
  },
  "blocked": false
