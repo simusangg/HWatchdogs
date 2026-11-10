@@ -35,11 +35,6 @@
    "price": "AU$17,020",
    "url": "https://www.hermes.com/au/en/product/faubourg-express-bag-H086410CC37/"
   },
-  "H060991CC37": {
-   "name": "Picotin Lock 22 Bag",
-   "price": "AU$6,520",
-   "url": "https://www.hermes.com/au/en/product/picotin-lock-22-bag-H060991CC37/"
-  },
   "H087953CKAF": {
    "name": "Double Longe Bag",
    "price": "AU$10,830",
@@ -194,6 +189,11 @@
    "name": "Neo Garden Voyage 41 Bag",
    "price": "AU$8,010",
    "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
+  },
+  "H060991CK10": {
+   "name": "Picotin Lock 22 Bag",
+   "price": "AU$6,520",
+   "url": "https://www.hermes.com/au/en/product/picotin-lock-22-bag-H060991CK10/"
   }
  },
  "blocked": false
