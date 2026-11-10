@@ -155,11 +155,6 @@
    "price": "AU$6,080",
    "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CK2D/"
   },
-  "H056289CCV8": {
-   "name": "Picotin Lock 18 Bag",
-   "price": "AU$6,080",
-   "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CCV8/"
-  },
   "H087934CKAA": {
    "name": "Neo Garden Voyage 41 Bredies Bag",
    "price": "AU$14,590",
@@ -199,6 +194,11 @@
    "name": "Garden Party 30 Bag",
    "price": "AU$7,295",
    "url": "https://www.hermes.com/au/en/product/garden-party-30-bag-H051568CK85/"
+  },
+  "H086430CCAA": {
+   "name": "Herbag Zip 20 Bag",
+   "price": "AU$4,885",
+   "url": "https://www.hermes.com/au/en/product/herbag-zip-20-bag-H086430CCAA/"
   }
  },
  "blocked": false
