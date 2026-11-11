@@ -20,6 +20,46 @@
    "price": "AU$11,715",
    "url": "https://www.hermes.com/au/en/product/hermes-geta-slim-bag-H086918CCAA/"
   },
+  "H087953CKAF": {
+   "name": "Double Longe Bag",
+   "price": "AU$10,830",
+   "url": "https://www.hermes.com/au/en/product/double-longe-bag-H087953CKAF/"
+  },
+  "H087967CKI2": {
+   "name": "Le Petit Sac Bag",
+   "price": "AU$9,725",
+   "url": "https://www.hermes.com/au/en/product/le-petit-sac-bag-H087967CKI2/"
+  },
+  "H085951CKI2": {
+   "name": "Lindy Ii Mini Bag",
+   "price": "AU$29,175",
+   "url": "https://www.hermes.com/au/en/product/lindy-ii-mini-bag-H085951CKI2/"
+  },
+  "H048490CA10": {
+   "name": "Jige Elan 29 Clutch",
+   "price": "AU$8,070",
+   "url": "https://www.hermes.com/au/en/product/jige-elan-29-clutch-H048490CA10/"
+  },
+  "H086955CK89": {
+   "name": "Sanglons Clutch",
+   "price": "AU$14,920",
+   "url": "https://www.hermes.com/au/en/product/sanglons-clutch-H086955CK89/"
+  },
+  "H087119CKAI": {
+   "name": "Jypsiere Mini Toile And Cuir Bag",
+   "price": "AU$14,255",
+   "url": "https://www.hermes.com/au/en/product/jypsiere-mini-toile-and-cuir-bag-H087119CKAI/"
+  },
+  "H084274CKAX": {
+   "name": "Hermes In The Loop 18 Bag",
+   "price": "AU$8,400",
+   "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H084274CKAX/"
+  },
+  "H060950CK55": {
+   "name": "Lindy 26 Bag",
+   "price": "AU$17,130",
+   "url": "https://www.hermes.com/au/en/product/lindy-26-bag-H060950CK55/"
+  },
   "H082153CCAI": {
    "name": "2424 21 Bag",
    "price": "AU$17,020",
@@ -35,40 +75,15 @@
    "price": "AU$17,020",
    "url": "https://www.hermes.com/au/en/product/faubourg-express-bag-H086410CC37/"
   },
-  "H087953CKAF": {
-   "name": "Double Longe Bag",
-   "price": "AU$10,830",
-   "url": "https://www.hermes.com/au/en/product/double-longe-bag-H087953CKAF/"
-  },
-  "H048490CA10": {
-   "name": "Jige Elan 29 Clutch",
-   "price": "AU$8,070",
-   "url": "https://www.hermes.com/au/en/product/jige-elan-29-clutch-H048490CA10/"
-  },
-  "H085951CKI2": {
-   "name": "Lindy Ii Mini Bag",
-   "price": "AU$29,175",
-   "url": "https://www.hermes.com/au/en/product/lindy-ii-mini-bag-H085951CKI2/"
-  },
-  "H087967CKI2": {
-   "name": "Le Petit Sac Bag",
-   "price": "AU$9,725",
-   "url": "https://www.hermes.com/au/en/product/le-petit-sac-bag-H087967CKI2/"
-  },
-  "H087119CKAI": {
-   "name": "Jypsiere Mini Toile And Cuir Bag",
-   "price": "AU$14,255",
-   "url": "https://www.hermes.com/au/en/product/jypsiere-mini-toile-and-cuir-bag-H087119CKAI/"
+  "H079091CKBZ": {
+   "name": "Herbag Zip 31 Bag",
+   "price": "AU$5,395",
+   "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079091CKBZ/"
   },
   "H083189CKBM": {
    "name": "Picotin Lock 18 Pocket Bag",
    "price": "AU$7,405",
    "url": "https://www.hermes.com/au/en/product/picotin-lock-18-pocket-bag-H083189CKBM/"
-  },
-  "H084274CKAX": {
-   "name": "Hermes In The Loop 18 Bag",
-   "price": "AU$8,400",
-   "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H084274CKAX/"
   },
   "H069573CKDO": {
    "name": "Garden Party 30 Bag",
@@ -79,16 +94,6 @@
    "name": "Hermes In The Loop 18 Bag",
    "price": "AU$8,400",
    "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H084274CKY1/"
-  },
-  "H079092CKAS": {
-   "name": "Herbag Zip 31 Bag",
-   "price": "AU$5,395",
-   "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079092CKAS/"
-  },
-  "H060950CK55": {
-   "name": "Lindy 26 Bag",
-   "price": "AU$17,130",
-   "url": "https://www.hermes.com/au/en/product/lindy-26-bag-H060950CK55/"
   },
   "H069523CCAH": {
    "name": "Halzan Mini Bag",
@@ -115,16 +120,6 @@
    "price": "AU$7,185",
    "url": "https://www.hermes.com/au/en/product/lassoie-hermes-bag-H087076CKAB/"
   },
-  "H086955CK89": {
-   "name": "Sanglons Clutch",
-   "price": "AU$14,920",
-   "url": "https://www.hermes.com/au/en/product/sanglons-clutch-H086955CK89/"
-  },
-  "H079091CKBZ": {
-   "name": "Herbag Zip 31 Bag",
-   "price": "AU$5,395",
-   "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079091CKBZ/"
-  },
   "H056275CK18": {
    "name": "Evelyne Iii 33 Bag",
    "price": "AU$7,405",
@@ -139,6 +134,11 @@
    "name": "Evelyne Iii 29 Bag",
    "price": "AU$6,745",
    "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CK18/"
+  },
+  "H079092CKAS": {
+   "name": "Herbag Zip 31 Bag",
+   "price": "AU$5,395",
+   "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079092CKAS/"
   },
   "H038587CKDT": {
    "name": "Garden Party 36 Bag",
