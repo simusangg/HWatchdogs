@@ -55,6 +55,11 @@
    "price": "AU$8,400",
    "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H084274CKAX/"
   },
+  "H060950CK55": {
+   "name": "Lindy 26 Bag",
+   "price": "AU$17,130",
+   "url": "https://www.hermes.com/au/en/product/lindy-26-bag-H060950CK55/"
+  },
   "H056277CC37": {
    "name": "Evelyne Iii 29 Bag",
    "price": "AU$6,745",
@@ -84,11 +89,6 @@
    "name": "Hermes In The Loop 18 Bag",
    "price": "AU$8,400",
    "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H084274CKY1/"
-  },
-  "H079092CKAS": {
-   "name": "Herbag Zip 31 Bag",
-   "price": "AU$5,395",
-   "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079092CKAS/"
   },
   "H075240CCAE": {
    "name": "2424 29 Bag",
@@ -124,6 +124,11 @@
    "name": "Evelyne Iii 29 Bag",
    "price": "AU$6,745",
    "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CK18/"
+  },
+  "H079092CKAS": {
+   "name": "Herbag Zip 31 Bag",
+   "price": "AU$5,395",
+   "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079092CKAS/"
   },
   "H038587CKDT": {
    "name": "Garden Party 36 Bag",
