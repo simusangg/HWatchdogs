@@ -85,11 +85,6 @@
    "price": "AU$12,270",
    "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H048263CC10/"
   },
-  "H087934CKAA": {
-   "name": "Neo Garden Voyage 41 Bredies Bag",
-   "price": "AU$14,590",
-   "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAA/"
-  },
   "H075240CCAE": {
    "name": "2424 29 Bag",
    "price": "AU$18,565",
@@ -124,6 +119,11 @@
    "name": "Evelyne Iii 29 Bag",
    "price": "AU$6,745",
    "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CK18/"
+  },
+  "H087934CKAA": {
+   "name": "Neo Garden Voyage 41 Bredies Bag",
+   "price": "AU$14,590",
+   "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAA/"
   },
   "H084283CK1C": {
    "name": "Hermes Videpoches Bag",
@@ -169,6 +169,16 @@
    "name": "Seau Mousqueton Bag",
    "price": "AU$15,495",
    "url": "https://www.hermes.com/au/en/product/seau-mousqueton-bag-H085751CKAA/"
+  },
+  "H085945CCAC": {
+   "name": "Evelyne 16 Amazone Bag",
+   "price": "AU$3,870",
+   "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H085945CCAC/"
+  },
+  "H056289CC0G": {
+   "name": "Picotin Lock 18 Bag",
+   "price": "AU$6,080",
+   "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CC0G/"
   },
   "H082153CKAI": {
    "name": "2424 21 Bag",
