@@ -45,6 +45,11 @@
    "price": "AU$8,400",
    "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H084274CKAX/"
   },
+  "H060950CK55": {
+   "name": "Lindy 26 Bag",
+   "price": "AU$17,130",
+   "url": "https://www.hermes.com/au/en/product/lindy-26-bag-H060950CK55/"
+  },
   "H056277CC37": {
    "name": "Evelyne Iii 29 Bag",
    "price": "AU$6,745",
@@ -85,11 +90,6 @@
    "price": "AU$5,395",
    "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079092CKAS/"
   },
-  "H078971CCCZ": {
-   "name": "Herbag Zip 31 Bag",
-   "price": "AU$5,395",
-   "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H078971CCCZ/"
-  },
   "H075240CCAE": {
    "name": "2424 29 Bag",
    "price": "AU$18,565",
@@ -124,6 +124,11 @@
    "name": "Evelyne Iii 29 Bag",
    "price": "AU$6,745",
    "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CK18/"
+  },
+  "H078971CCCZ": {
+   "name": "Herbag Zip 31 Bag",
+   "price": "AU$5,395",
+   "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H078971CCCZ/"
   },
   "H038587CKDT": {
    "name": "Garden Party 36 Bag",
@@ -170,6 +175,11 @@
    "price": "AU$15,470",
    "url": "https://www.hermes.com/au/en/product/roulis-mini-bag-H079195CKP0/"
   },
+  "H087941CC37": {
+   "name": "Evelyne 23 Poche Iii Bag",
+   "price": "AU$6,520",
+   "url": "https://www.hermes.com/au/en/product/evelyne-23-poche-iii-bag-H087941CC37/"
+  },
   "H086527CK89": {
    "name": "2424 21 Bag",
    "price": "AU$21,770",
@@ -180,15 +190,15 @@
    "price": "AU$8,010",
    "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
   },
+  "H085956CK18": {
+   "name": "Lindy Ii Mini Bag",
+   "price": "AU$13,815",
+   "url": "https://www.hermes.com/au/en/product/lindy-ii-mini-bag-H085956CK18/"
+  },
   "H085751CKAA": {
    "name": "Seau Mousqueton Bag",
    "price": "AU$15,495",
    "url": "https://www.hermes.com/au/en/product/seau-mousqueton-bag-H085751CKAA/"
-  },
-  "H082153CKAI": {
-   "name": "2424 21 Bag",
-   "price": "AU$17,020",
-   "url": "https://www.hermes.com/au/en/product/2424-21-bag-H082153CKAI/"
   }
  },
  "blocked": false
