@@ -145,11 +145,6 @@
    "price": "AU$12,270",
    "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H048263CC10/"
   },
-  "H086430CCAT": {
-   "name": "Herbag Zip 20 Bag",
-   "price": "AU$4,885",
-   "url": "https://www.hermes.com/au/en/product/herbag-zip-20-bag-H086430CCAT/"
-  },
   "H087934CKAA": {
    "name": "Neo Garden Voyage 41 Bredies Bag",
    "price": "AU$14,590",
@@ -189,6 +184,11 @@
    "name": "Roulis Mini Bag",
    "price": "AU$15,470",
    "url": "https://www.hermes.com/au/en/product/roulis-mini-bag-H079195CKP0/"
+  },
+  "H086934CKAA": {
+   "name": "Neo Garden Voyage 41 Bag",
+   "price": "AU$8,010",
+   "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bag-H086934CKAA/"
   }
  },
  "blocked": false
