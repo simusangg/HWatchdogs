@@ -60,11 +60,6 @@
    "price": "AU$5,040",
    "url": "https://www.hermes.com/au/en/product/garden-party-30-bag-H069573CKDO/"
   },
-  "H084274CKY1": {
-   "name": "Hermes In The Loop 18 Bag",
-   "price": "AU$8,400",
-   "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H084274CKY1/"
-  },
   "H048263CK3Q": {
    "name": "Plume Mini Bag",
    "price": "AU$12,270",
@@ -194,6 +189,11 @@
    "name": "Halzan 25 Bag",
    "price": "AU$10,060",
    "url": "https://www.hermes.com/au/en/product/halzan-25-bag-H082027CK89/"
+  },
+  "H073428CC18": {
+   "name": "Lindy 26 Bag",
+   "price": "AU$16,465",
+   "url": "https://www.hermes.com/au/en/product/lindy-26-bag-H073428CC18/"
   }
  },
  "blocked": false
