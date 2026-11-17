@@ -1,9 +1,9 @@
 {
  "products": {
-  "H070510CP37": {
-   "name": "Roulis Mini Bag",
-   "price": "AU$15,360",
-   "url": "https://www.hermes.com/au/en/product/roulis-mini-bag-H070510CP37/"
+  "H048490CA37": {
+   "name": "Jige Elan 29 Clutch",
+   "price": "AU$8,070",
+   "url": "https://www.hermes.com/au/en/product/jige-elan-29-clutch-H048490CA37/"
   },
   "H073582CCAM": {
    "name": "Picotin Lock 18 Bag",
@@ -85,10 +85,10 @@
    "price": "AU$14,590",
    "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAA/"
   },
-  "H084283CK1C": {
-   "name": "Hermes Videpoches Bag",
-   "price": "AU$5,940",
-   "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H084283CK1C/"
+  "H048263CKI8": {
+   "name": "Plume Mini Bag",
+   "price": "AU$12,270",
+   "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H048263CKI8/"
   },
   "H075240CCAE": {
    "name": "2424 29 Bag",
@@ -119,6 +119,16 @@
    "name": "Evelyne Iii 29 Bag",
    "price": "AU$6,745",
    "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CK18/"
+  },
+  "H051568CK5X": {
+   "name": "Garden Party 30 Bag",
+   "price": "AU$7,295",
+   "url": "https://www.hermes.com/au/en/product/garden-party-30-bag-H051568CK5X/"
+  },
+  "H084283CK1C": {
+   "name": "Hermes Videpoches Bag",
+   "price": "AU$5,940",
+   "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H084283CK1C/"
   },
   "H087934CKAB": {
    "name": "Neo Garden Voyage 41 Bredies Bag",
@@ -160,10 +170,25 @@
    "price": "AU$10,060",
    "url": "https://www.hermes.com/au/en/product/halzan-25-bag-H082027CK89/"
   },
+  "H086559CKM7": {
+   "name": "Plume Mini Bag",
+   "price": "AU$12,490",
+   "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H086559CKM7/"
+  },
+  "H086410CK18": {
+   "name": "Faubourg Express Bag",
+   "price": "AU$17,020",
+   "url": "https://www.hermes.com/au/en/product/faubourg-express-bag-H086410CK18/"
+  },
   "H085849CCAB": {
    "name": "2424 21 Bag",
    "price": "AU$20,225",
    "url": "https://www.hermes.com/au/en/product/2424-21-bag-H085849CCAB/"
+  },
+  "H084274CKBW": {
+   "name": "Hermes In The Loop 18 Bag",
+   "price": "AU$8,400",
+   "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H084274CKBW/"
   }
  },
  "blocked": false
