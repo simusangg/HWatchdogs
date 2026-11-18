@@ -155,11 +155,6 @@
    "price": "AU$7,405",
    "url": "https://www.hermes.com/au/en/product/picotin-lock-18-pocket-bag-H083189CKBM/"
   },
-  "H069573CKDQ": {
-   "name": "Garden Party 30 Bag",
-   "price": "AU$5,040",
-   "url": "https://www.hermes.com/au/en/product/garden-party-30-bag-H069573CKDQ/"
-  },
   "H087987CK18": {
    "name": "Hermes Videpoches Bag",
    "price": "AU$5,535",
@@ -185,20 +180,15 @@
    "price": "AU$6,845",
    "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H085760CKAE/"
   },
-  "H085945CCAD": {
-   "name": "Evelyne 16 Amazone Bag",
-   "price": "AU$3,870",
-   "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H085945CCAD/"
-  },
-  "H069523CCAI": {
-   "name": "Halzan Mini Bag",
-   "price": "AU$9,945",
-   "url": "https://www.hermes.com/au/en/product/halzan-mini-bag-H069523CCAI/"
-  },
   "H082153CCBH": {
    "name": "2424 21 Bag",
    "price": "AU$17,020",
    "url": "https://www.hermes.com/au/en/product/2424-21-bag-H082153CCBH/"
+  },
+  "H056289CK2S": {
+   "name": "Picotin Lock 18 Bag",
+   "price": "AU$6,080",
+   "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H056289CK2S/"
   }
  },
  "blocked": false
