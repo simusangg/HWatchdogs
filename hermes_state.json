@@ -80,15 +80,15 @@
    "price": "AU$13,485",
    "url": "https://www.hermes.com/au/en/product/le-petit-sac-bag-H087968CC89/"
   },
-  "H086955CK89": {
-   "name": "Sanglons Clutch",
-   "price": "AU$14,920",
-   "url": "https://www.hermes.com/au/en/product/sanglons-clutch-H086955CK89/"
+  "H079091CKCA": {
+   "name": "Herbag Zip 31 Bag",
+   "price": "AU$5,395",
+   "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079091CKCA/"
   },
-  "H087987CK18": {
-   "name": "Hermes Videpoches Bag",
-   "price": "AU$5,535",
-   "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H087987CK18/"
+  "H069573CKDN": {
+   "name": "Garden Party 30 Bag",
+   "price": "AU$5,040",
+   "url": "https://www.hermes.com/au/en/product/garden-party-30-bag-H069573CKDN/"
   },
   "H075240CCAE": {
    "name": "2424 29 Bag",
@@ -155,10 +155,25 @@
    "price": "AU$7,405",
    "url": "https://www.hermes.com/au/en/product/picotin-lock-18-pocket-bag-H083189CKBM/"
   },
+  "H069573CKDQ": {
+   "name": "Garden Party 30 Bag",
+   "price": "AU$5,040",
+   "url": "https://www.hermes.com/au/en/product/garden-party-30-bag-H069573CKDQ/"
+  },
+  "H087987CK18": {
+   "name": "Hermes Videpoches Bag",
+   "price": "AU$5,535",
+   "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H087987CK18/"
+  },
   "H087934CKAA": {
    "name": "Neo Garden Voyage 41 Bredies Bag",
    "price": "AU$14,590",
    "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAA/"
+  },
+  "H085945CKBX": {
+   "name": "Evelyne 16 Amazone Bag",
+   "price": "AU$3,870",
+   "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H085945CKBX/"
   },
   "H084283CK1C": {
    "name": "Hermes Videpoches Bag",
@@ -174,6 +189,16 @@
    "name": "Hermes Videpoches Bag",
    "price": "AU$6,845",
    "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H085760CKAE/"
+  },
+  "H085945CCAD": {
+   "name": "Evelyne 16 Amazone Bag",
+   "price": "AU$3,870",
+   "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H085945CCAD/"
+  },
+  "H069523CCAI": {
+   "name": "Halzan Mini Bag",
+   "price": "AU$9,945",
+   "url": "https://www.hermes.com/au/en/product/halzan-mini-bag-H069523CCAI/"
   }
  },
  "blocked": false
