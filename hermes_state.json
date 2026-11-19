@@ -60,11 +60,6 @@
    "price": "AU$8,400",
    "url": "https://www.hermes.com/au/en/product/hermes-in-the-loop-18-bag-H084274CKAX/"
   },
-  "H051568CK5X": {
-   "name": "Garden Party 30 Bag",
-   "price": "AU$7,295",
-   "url": "https://www.hermes.com/au/en/product/garden-party-30-bag-H051568CK5X/"
-  },
   "H087968CC89": {
    "name": "Le Petit Sac Bag",
    "price": "AU$13,485",
@@ -89,6 +84,11 @@
    "name": "Sanglons Clutch",
    "price": "AU$14,920",
    "url": "https://www.hermes.com/au/en/product/sanglons-clutch-H086955CC89/"
+  },
+  "H084283CK1C": {
+   "name": "Hermes Videpoches Bag",
+   "price": "AU$5,940",
+   "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H084283CK1C/"
   },
   "H075240CCAE": {
    "name": "2424 29 Bag",
@@ -134,11 +134,6 @@
    "name": "Picotin Lock 18 Pocket Bag",
    "price": "AU$7,405",
    "url": "https://www.hermes.com/au/en/product/picotin-lock-18-pocket-bag-H083189CKBM/"
-  },
-  "H084283CK1C": {
-   "name": "Hermes Videpoches Bag",
-   "price": "AU$5,940",
-   "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H084283CK1C/"
   },
   "H087934CKAB": {
    "name": "Neo Garden Voyage 41 Bredies Bag",
