@@ -75,11 +75,6 @@
    "price": "AU$5,395",
    "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079091CKCA/"
   },
-  "H069573CKDP": {
-   "name": "Garden Party 30 Bag",
-   "price": "AU$5,040",
-   "url": "https://www.hermes.com/au/en/product/garden-party-30-bag-H069573CKDP/"
-  },
   "H087987CK18": {
    "name": "Hermes Videpoches Bag",
    "price": "AU$5,535",
@@ -89,6 +84,11 @@
    "name": "Neo Garden Voyage 41 Bredies Bag",
    "price": "AU$14,590",
    "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAA/"
+  },
+  "H086955CC89": {
+   "name": "Sanglons Clutch",
+   "price": "AU$14,920",
+   "url": "https://www.hermes.com/au/en/product/sanglons-clutch-H086955CC89/"
   },
   "H078971CKBZ": {
    "name": "Herbag Zip 31 Bag",
@@ -125,20 +125,15 @@
    "price": "AU$9,285",
    "url": "https://www.hermes.com/au/en/product/arcon-slim-bag-H087032CPAB/"
   },
-  "H086955CC89": {
-   "name": "Sanglons Clutch",
-   "price": "AU$14,920",
-   "url": "https://www.hermes.com/au/en/product/sanglons-clutch-H086955CC89/"
+  "H084283CK1C": {
+   "name": "Hermes Videpoches Bag",
+   "price": "AU$5,940",
+   "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H084283CK1C/"
   },
   "H083189CKBM": {
    "name": "Picotin Lock 18 Pocket Bag",
    "price": "AU$7,405",
    "url": "https://www.hermes.com/au/en/product/picotin-lock-18-pocket-bag-H083189CKBM/"
-  },
-  "H084283CK1C": {
-   "name": "Hermes Videpoches Bag",
-   "price": "AU$5,940",
-   "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H084283CK1C/"
   },
   "H087934CKAB": {
    "name": "Neo Garden Voyage 41 Bredies Bag",
@@ -154,11 +149,6 @@
    "name": "Plume Mini Bag",
    "price": "AU$12,490",
    "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H086559CK3Q/"
-  },
-  "H085414CKAF": {
-   "name": "Herbag Zip 20 Bag",
-   "price": "AU$4,885",
-   "url": "https://www.hermes.com/au/en/product/herbag-zip-20-bag-H085414CKAF/"
   },
   "H085055CKAF": {
    "name": "Medor Bag",
@@ -180,11 +170,6 @@
    "price": "AU$18,565",
    "url": "https://www.hermes.com/au/en/product/2424-29-bag-H075240CKAQ/"
   },
-  "H069426CKCI": {
-   "name": "Evelyne 16 Amazone Bag",
-   "price": "AU$3,870",
-   "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H069426CKCI/"
-  },
   "H088537CKAA": {
    "name": "Bel Il Bag",
    "price": "AU$8,070",
@@ -199,6 +184,16 @@
    "name": "Mini Medor Bag",
    "price": "AU$20,665",
    "url": "https://www.hermes.com/au/en/product/mini-medor-bag-H085124CKAA/"
+  },
+  "H079195CP7U": {
+   "name": "Roulis Mini Bag",
+   "price": "AU$15,470",
+   "url": "https://www.hermes.com/au/en/product/roulis-mini-bag-H079195CP7U/"
+  },
+  "H073430CK5X": {
+   "name": "Lindy 26 Bag",
+   "price": "AU$16,910",
+   "url": "https://www.hermes.com/au/en/product/lindy-26-bag-H073430CK5X/"
   }
  },
  "blocked": false
