@@ -25,11 +25,6 @@
    "price": "AU$17,020",
    "url": "https://www.hermes.com/au/en/product/faubourg-express-bag-H086410CK18/"
   },
-  "H048263CKI8": {
-   "name": "Plume Mini Bag",
-   "price": "AU$12,270",
-   "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H048263CKI8/"
-  },
   "H086918CCAA": {
    "name": "Hermes Geta Slim Bag",
    "price": "AU$11,715",
@@ -39,11 +34,6 @@
    "name": "Jige Elan 29 Clutch",
    "price": "AU$8,070",
    "url": "https://www.hermes.com/au/en/product/jige-elan-29-clutch-H048490CA37/"
-  },
-  "H073582CCAM": {
-   "name": "Picotin Lock 18 Bag",
-   "price": "AU$9,615",
-   "url": "https://www.hermes.com/au/en/product/picotin-lock-18-bag-H073582CCAM/"
   },
   "H087119CKAI": {
    "name": "Jypsiere Mini Toile And Cuir Bag",
@@ -90,6 +80,16 @@
    "price": "AU$14,920",
    "url": "https://www.hermes.com/au/en/product/sanglons-clutch-H086955CC89/"
   },
+  "H084283CK1C": {
+   "name": "Hermes Videpoches Bag",
+   "price": "AU$5,940",
+   "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H084283CK1C/"
+  },
+  "H087934CKAB": {
+   "name": "Neo Garden Voyage 41 Bredies Bag",
+   "price": "AU$14,590",
+   "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAB/"
+  },
   "H078971CKBZ": {
    "name": "Herbag Zip 31 Bag",
    "price": "AU$5,395",
@@ -125,25 +125,15 @@
    "price": "AU$9,285",
    "url": "https://www.hermes.com/au/en/product/arcon-slim-bag-H087032CPAB/"
   },
-  "H084283CK1C": {
+  "H085760CKAE": {
    "name": "Hermes Videpoches Bag",
-   "price": "AU$5,940",
-   "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H084283CK1C/"
+   "price": "AU$6,845",
+   "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H085760CKAE/"
   },
   "H083189CKBM": {
    "name": "Picotin Lock 18 Pocket Bag",
    "price": "AU$7,405",
    "url": "https://www.hermes.com/au/en/product/picotin-lock-18-pocket-bag-H083189CKBM/"
-  },
-  "H087934CKAB": {
-   "name": "Neo Garden Voyage 41 Bredies Bag",
-   "price": "AU$14,590",
-   "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAB/"
-  },
-  "H085760CKAE": {
-   "name": "Hermes Videpoches Bag",
-   "price": "AU$6,845",
-   "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H085760CKAE/"
   },
   "H086559CK3Q": {
    "name": "Plume Mini Bag",
