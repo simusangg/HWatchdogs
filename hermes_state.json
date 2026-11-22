@@ -60,6 +60,21 @@
    "price": "AU$13,485",
    "url": "https://www.hermes.com/au/en/product/le-petit-sac-bag-H087968CC89/"
   },
+  "H088537CKAA": {
+   "name": "Bel Il Bag",
+   "price": "AU$8,070",
+   "url": "https://www.hermes.com/au/en/product/bel-il-bag-H088537CKAA/"
+  },
+  "H086394CKAD": {
+   "name": "P Tit Arcon Toile And Cuir Bag",
+   "price": "AU$8,510",
+   "url": "https://www.hermes.com/au/en/product/p-tit-arcon-toile-and-cuir-bag-H086394CKAD/"
+  },
+  "H085124CKAA": {
+   "name": "Mini Medor Bag",
+   "price": "AU$20,665",
+   "url": "https://www.hermes.com/au/en/product/mini-medor-bag-H085124CKAA/"
+  },
   "H079091CKCA": {
    "name": "Herbag Zip 31 Bag",
    "price": "AU$5,395",
@@ -74,16 +89,6 @@
    "name": "Neo Garden Voyage 41 Bredies Bag",
    "price": "AU$14,590",
    "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAA/"
-  },
-  "H086955CC89": {
-   "name": "Sanglons Clutch",
-   "price": "AU$14,920",
-   "url": "https://www.hermes.com/au/en/product/sanglons-clutch-H086955CC89/"
-  },
-  "H087934CKAB": {
-   "name": "Neo Garden Voyage 41 Bredies Bag",
-   "price": "AU$14,590",
-   "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAB/"
   },
   "H078971CKBZ": {
    "name": "Herbag Zip 31 Bag",
@@ -120,15 +125,25 @@
    "price": "AU$9,285",
    "url": "https://www.hermes.com/au/en/product/arcon-slim-bag-H087032CPAB/"
   },
-  "H085760CKAE": {
-   "name": "Hermes Videpoches Bag",
-   "price": "AU$6,845",
-   "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H085760CKAE/"
+  "H086955CC89": {
+   "name": "Sanglons Clutch",
+   "price": "AU$14,920",
+   "url": "https://www.hermes.com/au/en/product/sanglons-clutch-H086955CC89/"
   },
   "H083189CKBM": {
    "name": "Picotin Lock 18 Pocket Bag",
    "price": "AU$7,405",
    "url": "https://www.hermes.com/au/en/product/picotin-lock-18-pocket-bag-H083189CKBM/"
+  },
+  "H087934CKAB": {
+   "name": "Neo Garden Voyage 41 Bredies Bag",
+   "price": "AU$14,590",
+   "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAB/"
+  },
+  "H085760CKAE": {
+   "name": "Hermes Videpoches Bag",
+   "price": "AU$6,845",
+   "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H085760CKAE/"
   },
   "H086559CK3Q": {
    "name": "Plume Mini Bag",
@@ -149,21 +164,6 @@
    "name": "2424 29 Bag",
    "price": "AU$18,565",
    "url": "https://www.hermes.com/au/en/product/2424-29-bag-H075240CKAQ/"
-  },
-  "H088537CKAA": {
-   "name": "Bel Il Bag",
-   "price": "AU$8,070",
-   "url": "https://www.hermes.com/au/en/product/bel-il-bag-H088537CKAA/"
-  },
-  "H086394CKAD": {
-   "name": "P Tit Arcon Toile And Cuir Bag",
-   "price": "AU$8,510",
-   "url": "https://www.hermes.com/au/en/product/p-tit-arcon-toile-and-cuir-bag-H086394CKAD/"
-  },
-  "H085124CKAA": {
-   "name": "Mini Medor Bag",
-   "price": "AU$20,665",
-   "url": "https://www.hermes.com/au/en/product/mini-medor-bag-H085124CKAA/"
   }
  },
  "blocked": false
