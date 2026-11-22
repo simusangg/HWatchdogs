@@ -75,11 +75,6 @@
    "price": "AU$20,665",
    "url": "https://www.hermes.com/au/en/product/mini-medor-bag-H085124CKAA/"
   },
-  "H073430CK5X": {
-   "name": "Lindy 26 Bag",
-   "price": "AU$16,910",
-   "url": "https://www.hermes.com/au/en/product/lindy-26-bag-H073430CK5X/"
-  },
   "H079091CKCA": {
    "name": "Herbag Zip 31 Bag",
    "price": "AU$5,395",
@@ -89,6 +84,11 @@
    "name": "Hermes Videpoches Bag",
    "price": "AU$5,535",
    "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H087987CK18/"
+  },
+  "H087934CKAA": {
+   "name": "Neo Garden Voyage 41 Bredies Bag",
+   "price": "AU$14,590",
+   "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAA/"
   },
   "H078971CKBZ": {
    "name": "Herbag Zip 31 Bag",
@@ -125,20 +125,15 @@
    "price": "AU$9,285",
    "url": "https://www.hermes.com/au/en/product/arcon-slim-bag-H087032CPAB/"
   },
-  "H087934CKAA": {
-   "name": "Neo Garden Voyage 41 Bredies Bag",
-   "price": "AU$14,590",
-   "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAA/"
+  "H086955CC89": {
+   "name": "Sanglons Clutch",
+   "price": "AU$14,920",
+   "url": "https://www.hermes.com/au/en/product/sanglons-clutch-H086955CC89/"
   },
   "H083189CKBM": {
    "name": "Picotin Lock 18 Pocket Bag",
    "price": "AU$7,405",
    "url": "https://www.hermes.com/au/en/product/picotin-lock-18-pocket-bag-H083189CKBM/"
-  },
-  "H086955CC89": {
-   "name": "Sanglons Clutch",
-   "price": "AU$14,920",
-   "url": "https://www.hermes.com/au/en/product/sanglons-clutch-H086955CC89/"
   },
   "H087934CKAB": {
    "name": "Neo Garden Voyage 41 Bredies Bag",
@@ -154,11 +149,6 @@
    "name": "Plume Mini Bag",
    "price": "AU$12,490",
    "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H086559CK3Q/"
-  },
-  "H085414CKAF": {
-   "name": "Herbag Zip 20 Bag",
-   "price": "AU$4,885",
-   "url": "https://www.hermes.com/au/en/product/herbag-zip-20-bag-H085414CKAF/"
   },
   "H085055CKAF": {
    "name": "Medor Bag",
