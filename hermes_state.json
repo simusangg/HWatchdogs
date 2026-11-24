@@ -120,20 +120,25 @@
    "price": "AU$7,515",
    "url": "https://www.hermes.com/au/en/product/in-the-loop-belt-bag-H080211CKP0/"
   },
+  "H086527CK89": {
+   "name": "2424 21 Bag",
+   "price": "AU$21,770",
+   "url": "https://www.hermes.com/au/en/product/2424-21-bag-H086527CK89/"
+  },
   "H085871CKAD": {
    "name": "P Tit Arcon Bag",
    "price": "AU$8,730",
    "url": "https://www.hermes.com/au/en/product/p-tit-arcon-bag-H085871CKAD/"
   },
-  "H084283CKAI": {
-   "name": "Hermes Videpoches Bag",
-   "price": "AU$5,940",
-   "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H084283CKAI/"
-  },
   "H083189CKBM": {
    "name": "Picotin Lock 18 Pocket Bag",
    "price": "AU$7,405",
    "url": "https://www.hermes.com/au/en/product/picotin-lock-18-pocket-bag-H083189CKBM/"
+  },
+  "H084283CKAI": {
+   "name": "Hermes Videpoches Bag",
+   "price": "AU$5,940",
+   "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H084283CKAI/"
   },
   "H085871CKAF": {
    "name": "P Tit Arcon Bag",
@@ -144,6 +149,11 @@
    "name": "Garden Party 30 Bag",
    "price": "AU$7,295",
    "url": "https://www.hermes.com/au/en/product/garden-party-30-bag-H051568CK6C/"
+  },
+  "H087972CKAB": {
+   "name": "Bridon Bag",
+   "price": "AU$21,220",
+   "url": "https://www.hermes.com/au/en/product/bridon-bag-H087972CKAB/"
   },
   "H086559CKS3": {
    "name": "Plume Mini Bag",
@@ -164,6 +174,11 @@
    "name": "Herbag Zip 31 Bag",
    "price": "AU$5,395",
    "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079091CCBM/"
+  },
+  "H078971CKCV": {
+   "name": "Herbag Zip 31 Bag",
+   "price": "AU$5,395",
+   "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H078971CKCV/"
   },
   "H048263CK2D": {
    "name": "Plume Mini Bag",
