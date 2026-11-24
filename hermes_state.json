@@ -60,11 +60,6 @@
    "price": "AU$10,830",
    "url": "https://www.hermes.com/au/en/product/double-longe-bag-H087953CKAF/"
   },
-  "H080211CKP0": {
-   "name": "In The Loop Belt Bag",
-   "price": "AU$7,515",
-   "url": "https://www.hermes.com/au/en/product/in-the-loop-belt-bag-H080211CKP0/"
-  },
   "H084274CK7G": {
    "name": "Hermes In The Loop 18 Bag",
    "price": "AU$8,400",
@@ -79,11 +74,6 @@
    "name": "Roulis Mini Bag",
    "price": "AU$15,470",
    "url": "https://www.hermes.com/au/en/product/roulis-mini-bag-H079195CKP0/"
-  },
-  "H086337CK37": {
-   "name": "Faubourg Express Bag",
-   "price": "AU$19,890",
-   "url": "https://www.hermes.com/au/en/product/faubourg-express-bag-H086337CK37/"
   },
   "H085055CKAF": {
    "name": "Medor Bag",
@@ -145,11 +135,6 @@
    "price": "AU$5,395",
    "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079091CKAG/"
   },
-  "H051568CK6C": {
-   "name": "Garden Party 30 Bag",
-   "price": "AU$7,295",
-   "url": "https://www.hermes.com/au/en/product/garden-party-30-bag-H051568CK6C/"
-  },
   "H038587CKDT": {
    "name": "Garden Party 36 Bag",
    "price": "AU$5,505",
@@ -159,6 +144,11 @@
    "name": "Hermes Videpoches Bag",
    "price": "AU$5,535",
    "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H087987CK18/"
+  },
+  "H051568CK6C": {
+   "name": "Garden Party 30 Bag",
+   "price": "AU$7,295",
+   "url": "https://www.hermes.com/au/en/product/garden-party-30-bag-H051568CK6C/"
   },
   "H087934CKAA": {
    "name": "Neo Garden Voyage 41 Bredies Bag",
