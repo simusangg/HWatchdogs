@@ -130,10 +130,35 @@
    "price": "AU$6,745",
    "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CK37/"
   },
+  "H073430CK5X": {
+   "name": "Lindy 26 Bag",
+   "price": "AU$16,910",
+   "url": "https://www.hermes.com/au/en/product/lindy-26-bag-H073430CK5X/"
+  },
   "H079091CKAG": {
    "name": "Herbag Zip 31 Bag",
    "price": "AU$5,395",
    "url": "https://www.hermes.com/au/en/product/herbag-zip-31-bag-H079091CKAG/"
+  },
+  "H087941CC0G": {
+   "name": "Evelyne 23 Poche Iii Bag",
+   "price": "AU$6,520",
+   "url": "https://www.hermes.com/au/en/product/evelyne-23-poche-iii-bag-H087941CC0G/"
+  },
+  "H051568CK6C": {
+   "name": "Garden Party 30 Bag",
+   "price": "AU$7,295",
+   "url": "https://www.hermes.com/au/en/product/garden-party-30-bag-H051568CK6C/"
+  },
+  "H086430CCAB": {
+   "name": "Herbag Zip 20 Bag",
+   "price": "AU$4,885",
+   "url": "https://www.hermes.com/au/en/product/herbag-zip-20-bag-H086430CCAB/"
+  },
+  "H085945CKCH": {
+   "name": "Evelyne 16 Amazone Bag",
+   "price": "AU$3,870",
+   "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H085945CKCH/"
   },
   "H038587CKDT": {
    "name": "Garden Party 36 Bag",
@@ -145,15 +170,15 @@
    "price": "AU$5,535",
    "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H087987CK18/"
   },
-  "H051568CK6C": {
-   "name": "Garden Party 30 Bag",
-   "price": "AU$7,295",
-   "url": "https://www.hermes.com/au/en/product/garden-party-30-bag-H051568CK6C/"
-  },
   "H087934CKAA": {
    "name": "Neo Garden Voyage 41 Bredies Bag",
    "price": "AU$14,590",
    "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAA/"
+  },
+  "H085945CKBX": {
+   "name": "Evelyne 16 Amazone Bag",
+   "price": "AU$3,870",
+   "url": "https://www.hermes.com/au/en/product/evelyne-16-amazone-bag-H085945CKBX/"
   },
   "H087934CKAB": {
    "name": "Neo Garden Voyage 41 Bredies Bag",
@@ -169,6 +194,11 @@
    "name": "Hermes Videpoches Bag",
    "price": "AU$5,940",
    "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H084283CKAI/"
+  },
+  "H082027CK89": {
+   "name": "Halzan 25 Bag",
+   "price": "AU$10,060",
+   "url": "https://www.hermes.com/au/en/product/halzan-25-bag-H082027CK89/"
   }
  },
  "blocked": false
