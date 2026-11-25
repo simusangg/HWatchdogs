@@ -70,11 +70,6 @@
    "price": "AU$7,405",
    "url": "https://www.hermes.com/au/en/product/picotin-lock-18-pocket-bag-H083189CKBM/"
   },
-  "H079195CKP0": {
-   "name": "Roulis Mini Bag",
-   "price": "AU$15,470",
-   "url": "https://www.hermes.com/au/en/product/roulis-mini-bag-H079195CKP0/"
-  },
   "H085055CKAF": {
    "name": "Medor Bag",
    "price": "AU$18,015",
@@ -145,15 +140,15 @@
    "price": "AU$5,505",
    "url": "https://www.hermes.com/au/en/product/garden-party-36-bag-H038587CKDT/"
   },
-  "H051568CK6C": {
-   "name": "Garden Party 30 Bag",
-   "price": "AU$7,295",
-   "url": "https://www.hermes.com/au/en/product/garden-party-30-bag-H051568CK6C/"
-  },
   "H087987CK18": {
    "name": "Hermes Videpoches Bag",
    "price": "AU$5,535",
    "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H087987CK18/"
+  },
+  "H051568CK6C": {
+   "name": "Garden Party 30 Bag",
+   "price": "AU$7,295",
+   "url": "https://www.hermes.com/au/en/product/garden-party-30-bag-H051568CK6C/"
   },
   "H087934CKAA": {
    "name": "Neo Garden Voyage 41 Bredies Bag",
