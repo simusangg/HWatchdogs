@@ -20,11 +20,6 @@
    "price": "AU$13,485",
    "url": "https://www.hermes.com/au/en/product/le-petit-sac-bag-H087968CC89/"
   },
-  "H048263CK2D": {
-   "name": "Plume Mini Bag",
-   "price": "AU$12,270",
-   "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H048263CK2D/"
-  },
   "H085871CKAD": {
    "name": "P Tit Arcon Bag",
    "price": "AU$8,730",
@@ -50,11 +45,6 @@
    "price": "AU$6,745",
    "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CK18/"
   },
-  "H085951CKI2": {
-   "name": "Lindy Ii Mini Bag",
-   "price": "AU$29,175",
-   "url": "https://www.hermes.com/au/en/product/lindy-ii-mini-bag-H085951CKI2/"
-  },
   "H087953CKAF": {
    "name": "Double Longe Bag",
    "price": "AU$10,830",
@@ -69,11 +59,6 @@
    "name": "Picotin Lock 18 Pocket Bag",
    "price": "AU$7,405",
    "url": "https://www.hermes.com/au/en/product/picotin-lock-18-pocket-bag-H083189CKBM/"
-  },
-  "H085055CKAF": {
-   "name": "Medor Bag",
-   "price": "AU$18,015",
-   "url": "https://www.hermes.com/au/en/product/medor-bag-H085055CKAF/"
   },
   "H088537CKAA": {
    "name": "Bel Il Bag",
@@ -94,11 +79,6 @@
    "name": "2424 21 Bag",
    "price": "AU$21,770",
    "url": "https://www.hermes.com/au/en/product/2424-21-bag-H086527CK89/"
-  },
-  "H086559CKS3": {
-   "name": "Plume Mini Bag",
-   "price": "AU$12,490",
-   "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H086559CKS3/"
   },
   "H085751CKAA": {
    "name": "Seau Mousqueton Bag",
@@ -125,6 +105,11 @@
    "price": "AU$6,745",
    "url": "https://www.hermes.com/au/en/product/evelyne-iii-29-bag-H056277CK37/"
   },
+  "H048263CK3Q": {
+   "name": "Plume Mini Bag",
+   "price": "AU$12,270",
+   "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H048263CK3Q/"
+  },
   "H038587CKDT": {
    "name": "Garden Party 36 Bag",
    "price": "AU$5,505",
@@ -135,10 +120,20 @@
    "price": "AU$5,535",
    "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H087987CK18/"
   },
+  "H087119CCAB": {
+   "name": "Jypsiere Mini Toile And Cuir Bag",
+   "price": "AU$14,255",
+   "url": "https://www.hermes.com/au/en/product/jypsiere-mini-toile-and-cuir-bag-H087119CCAB/"
+  },
   "H087934CKAA": {
    "name": "Neo Garden Voyage 41 Bredies Bag",
    "price": "AU$14,590",
    "url": "https://www.hermes.com/au/en/product/neo-garden-voyage-41-bredies-bag-H087934CKAA/"
+  },
+  "H048263CK18": {
+   "name": "Plume Mini Bag",
+   "price": "AU$12,270",
+   "url": "https://www.hermes.com/au/en/product/plume-mini-bag-H048263CK18/"
   },
   "H087934CKAB": {
    "name": "Neo Garden Voyage 41 Bredies Bag",
@@ -150,10 +145,30 @@
    "price": "AU$6,845",
    "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H085760CKAE/"
   },
+  "H087095CK37": {
+   "name": "Plume 28 Bag",
+   "price": "AU$17,460",
+   "url": "https://www.hermes.com/au/en/product/plume-28-bag-H087095CK37/"
+  },
+  "H087119CKAA": {
+   "name": "Jypsiere Mini Toile And Cuir Bag",
+   "price": "AU$14,255",
+   "url": "https://www.hermes.com/au/en/product/jypsiere-mini-toile-and-cuir-bag-H087119CKAA/"
+  },
+  "H088004CC37": {
+   "name": "Jypsiere Mini Bag",
+   "price": "AU$15,140",
+   "url": "https://www.hermes.com/au/en/product/jypsiere-mini-bag-H088004CC37/"
+  },
   "H084283CKAI": {
    "name": "Hermes Videpoches Bag",
    "price": "AU$5,940",
    "url": "https://www.hermes.com/au/en/product/hermes-videpoches-bag-H084283CKAI/"
+  },
+  "H085055CKAJ": {
+   "name": "Medor Bag",
+   "price": "AU$18,015",
+   "url": "https://www.hermes.com/au/en/product/medor-bag-H085055CKAJ/"
   }
  },
  "blocked": false
